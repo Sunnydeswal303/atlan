@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1366px" height="660px" viewBox="0 0 1366 660" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>about-header-bg</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="about-header-bg" fill-rule="nonzero">
+            <rect id="Rectangle-Copy-4" fill="#FFFFFF" x="0" y="0" width="1366" height="660"></rect>
+            <g id="bg-elements-copy" transform="translate(111.000000, 133.000000)" fill="#F5F6FF">
+                <circle id="Oval" cx="69.552" cy="70.4592" r="69.552"></circle>
+            </g>
+            <g id="Group-2-Copy" opacity="0.4" transform="translate(1153.000000, 365.000000)">
+                <polygon id="Polygon" fill="#62E1FC" points="63.504 91.68 127.008 155.184 63.504 218.688 -2.27373675e-13 155.184"></polygon>
+                <polygon id="Polygon" fill="#2027D2" points="142.56 0.528 158.112 16.08 142.56 31.632 127.008 16.08"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

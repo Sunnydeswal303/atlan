@@ -1,0 +1,13 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="40" height="40" rx="16" fill="#F3F4FD"/>
+<path d="M27.5 11.75H12.5C12.0858 11.75 11.75 12.0858 11.75 12.5V27.5C11.75 27.9142 12.0858 28.25 12.5 28.25H27.5C27.9142 28.25 28.25 27.9142 28.25 27.5V12.5C28.25 12.0858 27.9142 11.75 27.5 11.75Z" stroke="#2026D2" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M23.75 10.25V13.25" stroke="#2026D2" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16.25 10.25V13.25" stroke="#2026D2" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M11.75 16.25H28.25" stroke="#2026D2" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="16.25" cy="20.75" r="0.75" fill="#2026D2"/>
+<circle cx="20" cy="20.75" r="0.75" fill="#2026D2"/>
+<circle cx="23.75" cy="20.75" r="0.75" fill="#2026D2"/>
+<circle cx="16.25" cy="23.75" r="0.75" fill="#2026D2"/>
+<circle cx="20" cy="23.75" r="0.75" fill="#2026D2"/>
+<circle cx="23.75" cy="23.75" r="0.75" fill="#2026D2"/>
+</svg>

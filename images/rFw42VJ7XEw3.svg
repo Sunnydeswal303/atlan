@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1442px" height="537px" viewBox="0 0 1442 537" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>bg-elements copy + Group 2 Copy Mask Copy</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1442" height="537"></rect>
+    </defs>
+    <g id="snowflake" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bg-elements-copy-+-Group-2-Copy-Mask-Copy">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask"></g>
+            <g id="bg-elements-copy" mask="url(#mask-2)" fill="#1913AE" opacity="0.402300153">
+                <g transform="translate(133.000000, 55.000000)" id="Oval">
+                    <circle cx="55.5" cy="55.5" r="55.5"></circle>
+                </g>
+            </g>
+            <g id="Group-2-Copy" mask="url(#mask-2)" fill="#1913AE" opacity="0.600307646">
+                <g transform="translate(1121.000000, -99.000000)" id="Polygon">
+                    <polygon points="98.5 542 197 640.5 98.5 739 0 640.5"></polygon>
+                    <polygon points="222 400 246 424 222 448 198 424"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
